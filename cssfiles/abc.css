@@ -1,0 +1,29 @@
+*{
+background-color: wheat;
+text-align: center;
+font-family:Georgia;
+}
+.poem{
+    color:#a52a2a;
+    line-height: 30px;
+    
+}
+
+h1{
+color: red;
+}
+h3{
+    color:black;
+}
+a{
+color:green
+
+}
+button:hover{
+    background-color: white;
+    color:blueviolet;
+}
+
+textarea{color:#000000;
+
+}
