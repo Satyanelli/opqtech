@@ -21,7 +21,7 @@ const EventsDemo = () => {
     console.log("Submitted");
   }
 
-  function handleClick(e: React.MouseEvent<HTMLButtonElement>) {
+  function handleClick() {
     console.log("clicked");
   }
   return (
